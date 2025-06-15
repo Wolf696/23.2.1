@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Зеленая миля",
+    "original_title": "The Green Mile",
+    "year": "1999",
+    "rating": "8.9",
+    "genres": "драма, детектив, криминал, фэнтези",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624334_zelenaja_milja/",
+    "director": ""
+  },
+  {
+    "title": "Побег из Шоушенка",
+    "original_title": "The Shawshank Redemption",
+    "year": "1994",
+    "rating": "8.8",
+    "genres": "драма, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/628227_pobeg_iz_shoushenka/",
+    "director": ""
+  },
+  {
+    "title": "Иван Васильевич меняет профессию",
+    "original_title": "",
+    "year": "1973",
+    "rating": "8.6",
+    "genres": "комедия, приключения, семейный, фантастика",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623582_ivan_vasilevich_menjaet_professiju/",
+    "director": ""
+  },
+  {
+    "title": "Бриллиантовая рука",
+    "original_title": "",
+    "year": "1968",
+    "rating": "8.6",
+    "genres": "комедия, криминал, приключения, семейный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623580_brilliantovaja_ruka/",
+    "director": ""
+  },
+  {
+    "title": "Операция «Ы» и другие приключения Шурика",
+    "original_title": "",
+    "year": "1965",
+    "rating": "8.6",
+    "genres": "комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623579_operacija_y_i_drugie_prikljuchenija_shurika/",
+    "director": ""
+  },
+  {
+    "title": "В бой идут одни «старики»",
+    "original_title": "",
+    "year": "1973",
+    "rating": "8.6",
+    "genres": "драма, комедия, военный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/576973_v_boj_idut_odni_stariki/",
+    "director": ""
+  },
+  {
+    "title": "Форрест Гамп",
+    "original_title": "Forrest Gump",
+    "year": "1994",
+    "rating": "8.6",
+    "genres": "драма, мелодрама, комедия, военный, исторический",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/623788_forrest_gamp/",
+    "director": ""
+  },
+  {
+    "title": "Джентльмены удачи",
+    "original_title": "",
+    "year": "1971",
+    "rating": "8.5",
+    "genres": "драма, комедия, детектив, криминал",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/646754_dzhentlmeny_udachi/",
+    "director": ""
+  },
+  {
+    "title": "А зори здесь тихие",
+    "original_title": "",
+    "year": "1972",
+    "rating": "8.5",
+    "genres": "драма, военный, исторический",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/631779_a_zori_zdes_tihie/",
+    "director": ""
+  },
+  {
+    "title": "Они сражались за Родину",
+    "original_title": "",
+    "year": "1975",
+    "rating": "8.5",
+    "genres": "драма, военный, исторический",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/345948_oni_srazhalis_za_rodinu/",
+    "director": ""
+  },
+  {
+    "title": "Офицеры",
+    "original_title": "",
+    "year": "1971",
+    "rating": "8.5",
+    "genres": "драма, мелодрама, военный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/517554_oficery/",
+    "director": ""
+  },
+  {
+    "title": "Кавказская пленница, или Новые приключения Шурика",
+    "original_title": "",
+    "year": "1966",
+    "rating": "8.4",
+    "genres": "мелодрама, комедия, музыкальный, приключения, семейный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623578_kavkazskaja_plennica_ili_novye_prikljuchenija_shurika/",
+    "director": ""
+  },
+  {
+    "title": "1+1",
+    "original_title": "Intouchables",
+    "year": "2011",
+    "rating": "8.4",
+    "genres": "драма, комедия, биография",
+    "country": "Франция",
+    "url": "https://kino.mail.ru/cinema/movies/709388_1_1/",
+    "director": ""
+  },
+  {
+    "title": "Москва слезам не верит",
+    "original_title": "",
+    "year": "1979",
+    "rating": "8.4",
+    "genres": "драма, мелодрама, комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/517557_moskva_slezam_ne_verit/",
+    "director": ""
+  },
+  {
+    "title": "Список Шиндлера",
+    "original_title": "Schindler's List",
+    "year": "1993",
+    "rating": "8.4",
+    "genres": "драма, биография, исторический",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/604347_spisok_shindlera/",
+    "director": ""
+  },
+  {
+    "title": "Служебный роман",
+    "original_title": "",
+    "year": "1977",
+    "rating": "8.3",
+    "genres": "мелодрама, комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/647830_sluzhebnyj_roman/",
+    "director": ""
+  },
+  {
+    "title": "Любовь и голуби",
+    "original_title": "",
+    "year": "1984",
+    "rating": "8.3",
+    "genres": "мелодрама, комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/515976_ljubov_i_golubi/",
+    "director": ""
+  },
+  {
+    "title": "Леон",
+    "original_title": "Leon",
+    "year": "1994",
+    "rating": "8.3",
+    "genres": "драма, триллер, криминал",
+    "country": "Франция",
+    "url": "https://kino.mail.ru/cinema/movies/585681_leon/",
+    "director": ""
+  },
+  {
+    "title": "Гладиатор",
+    "original_title": "Gladiator",
+    "year": "Великобритания",
+    "rating": "8.3",
+    "genres": "2000, драма, боевик",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624202_gladiator/",
+    "director": ""
+  },
+  {
+    "title": "Достучаться до небес",
+    "original_title": "Knockin' on Heaven's Door",
+    "year": "1997",
+    "rating": "8.3",
+    "genres": "драма, криминал",
+    "country": "Германия",
+    "url": "https://kino.mail.ru/cinema/movies/487910_dostuchatsja_do_nebes/",
+    "director": ""
+  },
+  {
+    "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
+    "original_title": "",
+    "year": "1981",
+    "rating": "8.3",
+    "genres": "детектив, криминал",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/647527_sherlok_holms_i_doktor_vatson_sobaka_baskervilej/",
+    "director": ""
+  },
+  {
+    "title": "Король Лев",
+    "original_title": "The Lion King",
+    "year": "1994",
+    "rating": "8.3",
+    "genres": "драма, мультфильмы, мюзикл, приключения, семейный",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/626753_korol_lev/",
+    "director": ""
+  },
+  {
+    "title": "Крестный отец",
+    "original_title": "The Godfather",
+    "year": "1972",
+    "rating": "8.3",
+    "genres": "драма, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/605306_krestnyj_otec/",
+    "director": ""
+  },
+  {
+    "title": "Назад в будущее",
+    "original_title": "Back to the Future",
+    "year": "1985",
+    "rating": "8.3",
+    "genres": "комедия, приключения, фантастика",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624485_nazad_v_buduschee/",
+    "director": ""
+  },
+  {
+    "title": "Шерлок Холмс и доктор Ватсон: Знакомство",
+    "original_title": "",
+    "year": "1979",
+    "rating": "8.3",
+    "genres": "детектив, криминал",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/647666_sherlok_holms_i_doktor_vatson_znakomstvo/",
+    "director": ""
+  },
+  {
+    "title": "Шерлок Холмс и доктор Ватсон: Король шантажа",
+    "original_title": "",
+    "year": "1980",
+    "rating": "8.2",
+    "genres": "детектив",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/648823_sherlok_holms_i_doktor_vatson_korol_shantazha/",
+    "director": ""
+  },
+  {
+    "title": "Девчата",
+    "original_title": "",
+    "year": "1961",
+    "rating": "8.2",
+    "genres": "комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/597348_devchata/",
+    "director": ""
+  },
+  {
+    "title": "Судьба человека",
+    "original_title": "",
+    "year": "1959",
+    "rating": "8.2",
+    "genres": "драма, военный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/476010_sudba_cheloveka/",
+    "director": ""
+  },
+  {
+    "title": "Хатико: Самый верный друг",
+    "original_title": "Hachi: A Dog's Tale",
+    "year": "Великобритания",
+    "rating": "8.2",
+    "genres": "2009, драма, семейный",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/507516_hatiko_samyj_vernyj_drug/",
+    "director": ""
+  },
+  {
+    "title": "Начало",
+    "original_title": "Inception",
+    "year": "Великобритания",
+    "rating": "8.2",
+    "genres": "2010, триллер, боевик, детектив, приключения, фантастика",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/586450_nachalo/",
+    "director": ""
+  },
+  {
+    "title": "Собачье сердце",
+    "original_title": "",
+    "year": "1988",
+    "rating": "8.2",
+    "genres": "драма, комедия, фантастика",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/624839_sobache_serdce/",
+    "director": ""
+  },
+  {
+    "title": "Привидение",
+    "original_title": "Ghost",
+    "year": "1990",
+    "rating": "8.2",
+    "genres": "драма, мелодрама, триллер, фэнтези",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624416_prividenie/",
+    "director": ""
+  },
+  {
+    "title": "Игры разума",
+    "original_title": "A Beautiful Mind",
+    "year": "2001",
+    "rating": "8.2",
+    "genres": "драма, биография",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/491481_igry_razuma/",
+    "director": ""
+  },
+  {
+    "title": "Криминальное чтиво",
+    "original_title": "Pulp Fiction",
+    "year": "1994",
+    "rating": "8.2",
+    "genres": "комедия, триллер, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/438972_kriminalnoe_chtivo/",
+    "director": ""
+  },
+  {
+    "title": "Бойцовский клуб",
+    "original_title": "Fight Club",
+    "year": "Германия",
+    "rating": "8.2",
+    "genres": "1999, драма, триллер, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/487906_boitsovskii_klub/",
+    "director": ""
+  },
+  {
+    "title": "ВАЛЛ·И",
+    "original_title": "WALL·E",
+    "year": "2008",
+    "rating": "8.2",
+    "genres": "мультфильмы, приключения, семейный, фантастика",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/625924_wall_e/",
+    "director": ""
+  },
+  {
+    "title": "Остров проклятых",
+    "original_title": "Shutter Island",
+    "year": "2010",
+    "rating": "8.2",
+    "genres": "драма, триллер, детектив",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/532397_ostrov_prokljatyh/",
+    "director": ""
+  },
+  {
+    "title": "Поймай меня, если сможешь",
+    "original_title": "Catch Me If You Can",
+    "year": "Канада",
+    "rating": "8.2",
+    "genres": "2002, драма, комедия, биография, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/626615_pojmaj_menja_esli_smozhesh/",
+    "director": ""
+  },
+  {
+    "title": "Молчание ягнят",
+    "original_title": "The Silence of the Lambs",
+    "year": "1990",
+    "rating": "8.2",
+    "genres": "триллер, детектив",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/630272_molchanie_jagnjat/",
+    "director": ""
+  },
+  {
+    "title": "Дневник памяти",
+    "original_title": "The Notebook",
+    "year": "2004",
+    "rating": "8.2",
+    "genres": "драма, мелодрама",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/622923_dnevnik_pamjati/",
+    "director": ""
+  },
+  {
+    "title": "Храброе сердце",
+    "original_title": "Braveheart",
+    "year": "1995",
+    "rating": "8.2",
+    "genres": "драма, биография, военный, исторический",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/443931_hrabroe_serdce/",
+    "director": ""
+  },
+  {
+    "title": "Шерлок Холмс и доктор Ватсон: Смертельная схватка",
+    "original_title": "",
+    "year": "1980",
+    "rating": "8.2",
+    "genres": "детектив, криминал",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/647833_sherlok_holms_i_doktor_vatson_smertelnaja_shvatka/",
+    "director": ""
+  },
+  {
+    "title": "Престиж",
+    "original_title": "The Prestige",
+    "year": "Великобритания",
+    "rating": "8.2",
+    "genres": "2006, драма, триллер, детектив",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/349514_prestizh/",
+    "director": ""
+  },
+  {
+    "title": "Пролетая над гнездом кукушки",
+    "original_title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
+    "rating": "8.2",
+    "genres": "драма",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/425525_proletaja_nad_gnezdom_kukushki/",
+    "director": ""
+  },
+  {
+    "title": "Человек дождя",
+    "original_title": "Rain Man",
+    "year": "1988",
+    "rating": "8.2",
+    "genres": "драма",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/441418_chelovek_dozhdja/",
+    "director": ""
+  },
+  {
+    "title": "Назад в будущее 2",
+    "original_title": "Back to the Future Part II",
+    "year": "1989",
+    "rating": "8.2",
+    "genres": "комедия, боевик, приключения, семейный, фантастика",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/630472_nazad_v_buduschee_2/",
+    "director": ""
+  },
+  {
+    "title": "Отступники",
+    "original_title": "The Departed",
+    "year": "Гонконг",
+    "rating": "8.2",
+    "genres": "2006, драма, триллер, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624504_otstupniki/",
+    "director": ""
+  },
+  {
+    "title": "Игра",
+    "original_title": "The Game",
+    "year": "1997",
+    "rating": "8.2",
+    "genres": "драма, триллер, детектив, приключения",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624820_igra/",
+    "director": ""
+  },
+  {
+    "title": "Унесенные призраками",
+    "original_title": "Sen to Chihiro no kamikakushi",
+    "year": "2001",
+    "rating": "8.2",
+    "genres": "аниме, мультфильмы, приключения, семейный, фэнтези",
+    "country": "Япония",
+    "url": "https://kino.mail.ru/cinema/movies/485977_unesennye_prizrakami/",
+    "director": ""
+  },
+  {
+    "title": "Большой куш",
+    "original_title": "Snatch.",
+    "year": "Великобритания",
+    "rating": "8.2",
+    "genres": "2000, комедия, боевик, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/645032_bolshoj_kush/",
+    "director": ""
+  },
+  {
+    "title": "Зеленая миля",
+    "original_title": "The Green Mile",
+    "year": "1999",
+    "rating": "8.9",
+    "genres": "драма, детектив, криминал, фэнтези",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/624334_zelenaja_milja/",
+    "director": ""
+  },
+  {
+    "title": "Побег из Шоушенка",
+    "original_title": "The Shawshank Redemption",
+    "year": "1994",
+    "rating": "8.8",
+    "genres": "драма, криминал",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/628227_pobeg_iz_shoushenka/",
+    "director": ""
+  },
+  {
+    "title": "Иван Васильевич меняет профессию",
+    "original_title": "",
+    "year": "1973",
+    "rating": "8.6",
+    "genres": "комедия, приключения, семейный, фантастика",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623582_ivan_vasilevich_menjaet_professiju/",
+    "director": ""
+  },
+  {
+    "title": "Бриллиантовая рука",
+    "original_title": "",
+    "year": "1968",
+    "rating": "8.6",
+    "genres": "комедия, криминал, приключения, семейный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623580_brilliantovaja_ruka/",
+    "director": ""
+  },
+  {
+    "title": "Операция «Ы» и другие приключения Шурика",
+    "original_title": "",
+    "year": "1965",
+    "rating": "8.6",
+    "genres": "комедия",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/623579_operacija_y_i_drugie_prikljuchenija_shurika/",
+    "director": ""
+  },
+  {
+    "title": "В бой идут одни «старики»",
+    "original_title": "",
+    "year": "1973",
+    "rating": "8.6",
+    "genres": "драма, комедия, военный",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/576973_v_boj_idut_odni_stariki/",
+    "director": ""
+  },
+  {
+    "title": "Форрест Гамп",
+    "original_title": "Forrest Gump",
+    "year": "1994",
+    "rating": "8.6",
+    "genres": "драма, мелодрама, комедия, военный, исторический",
+    "country": "США",
+    "url": "https://kino.mail.ru/cinema/movies/623788_forrest_gamp/",
+    "director": ""
+  },
+  {
+    "title": "Джентльмены удачи",
+    "original_title": "",
+    "year": "1971",
+    "rating": "8.5",
+    "genres": "драма, комедия, детектив, криминал",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/646754_dzhentlmeny_udachi/",
+    "director": ""
+  },
+  {
+    "title": "А зори здесь тихие",
+    "original_title": "",
+    "year": "1972",
+    "rating": "8.5",
+    "genres": "драма, военный, исторический",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/631779_a_zori_zdes_tihie/",
+    "director": ""
+  },
+  {
+    "title": "Они сражались за Родину",
+    "original_title": "",
+    "year": "1975",
+    "rating": "8.5",
+    "genres": "драма, военный, исторический",
+    "country": "СССР",
+    "url": "https://kino.mail.ru/cinema/movies/345948_oni_srazhalis_za_rodinu/",
+    "director": ""
+  }
+]
